@@ -29,3 +29,4 @@ console.log(person.fullNamePerson());
 
 //Aufgabe 3
 
+console.log(Object.keys(person).length);
